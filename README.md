@@ -15,8 +15,8 @@ Everything here is build from scratch, no copy/paste templates.<br>
 <ul>
   <li>🐈I am a Cat Lover, but not a pet parent.</li>
   <li>☕Coffee Person</li>
-  <li>Into Shows & Movies : Stranger Things is my favorite & forever a ![]https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXljYzhtY3hndjV3c3pla2QxN3owcHF6cTBlNnFhdGsyOGZpdmlqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mz1kJeDVueKC4/giphy.gif Harry Potter fanboy.</li>
-  <li>Love to build new things, and technologies from scratch and a person eager to learn.</li>
+  <li>🎬Into Shows & Movies : Stranger Things is my favorite & forever a Harry Potter fanboy.</li>
+  <li>💖Love to build new things, and 👨‍💻 technologies from scratch and a person eager to learn.</li>
 </ul>
 
 
