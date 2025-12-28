@@ -6,7 +6,7 @@ I mostly work on Frontend Stuff - Tailwind CSS, Vanilla CSS and a bit of animati
 I also use Figma and Adobe XD for UI design.<br>
 I also have a great interest in Physics, Game Development and IoT projects.<br>
 <hr>
-This is a fresh profile I'll be uploading some smaller projects, exeriments, and things I'm currently working on.<br>
+This is a fresh profile I'll be uploading some smaller projects, experiments, and things I'm currently working on.<br>
 Everything here is build from scratch, no copy/paste templates.<br>
 
 <hr>
